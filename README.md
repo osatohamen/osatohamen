@@ -2,7 +2,7 @@
 <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="275">
   <p align="center">
 <br>
-<a href="https://instagram.com/osat0hamen/"><img src="https://img.shields.io/badge/-osatohamen-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/osato_az/" alt="Instagram"></a>
+<a href="https://instagram.com/osato_az/"><img src="https://img.shields.io/badge/-osato_az-df48ff?style=for-the-badge&amp;logo=Instagram&amp;logoColor=white&amp;link=https://instagram.com/osato_az/" alt="Instagram"></a>
 <a href="https://snapchat.com/bera1too3"><img src="https://img.shields.io/badge/-bera1too3-ff66ce?style=for-the-badge&amp;logo=Snapchat&amp;logoColor=white&amp;link=https://rishi.cx/" alt="Website"></a>
 <a href="https://open.spotify.com/user/5v7vdgilr8kr8x29lm14ibfml"><img src="https://img.shields.io/badge/-osato-31099c?style=for-the-badge&amp;logo=Spotify&amp;logoColor=white&amp;link=https://open.spotify.com/user/rishiosaur?si=-yOz-AfDR1msGjoKn65u6g" alt="Spotify"></a></p>
 I'm a first year student that's super interested in machine learning & AI. I'm a mostly beginner with Python, HTML and CSS; I also enjoy working with Figma on prototyping and product design.
