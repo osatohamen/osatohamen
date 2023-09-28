@@ -1,6 +1,5 @@
-<p align="center">
-<img src="https://github.com/osatohamen/osatohamen/blob/main/header.png" width="600">
-
+<h2 align="center"> Hi! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h>
+  
 <p align="center">
 <a href="mailto:osatoaziegbe@gmail.com"><img src="https://img.shields.io/badge/-osatoaziegbe-87c1ff?style=for-the-badge&amp;logo=GMail&amp;logoColor=white&amp;link=mailto:osatoaziegbe@gmail.com" alt="Email"></a>
 <a href="https://www.linkedin.com/in/osatohamen-aziegbe/"><img src="https://img.shields.io/badge/-osatohamen-ff66ce?style=for-the-badge&amp;logo=LinkedIn&amp;logoColor=white&amp;link=https://www.linkedin.com/in/osatohamen-aziegbe/" alt="LinkedIn"></a>
